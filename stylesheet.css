@@ -1,0 +1,26 @@
+h1 {
+    /* 文字の色を指定 */
+    color: red;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aqua;
+    width: 500px;
+    height: 200px;
+}
+
+.header {
+    background-color: aqua;
+    height: 90px;
+}
+
+.main {
+    background-color: azure;
+    /* height: 20px; */
+
+}
+
+.footer {
+    background-color: blue;
+    height: 150px;
+
+}
