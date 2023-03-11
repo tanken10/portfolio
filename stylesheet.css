@@ -9,7 +9,7 @@
 }
 
 .header-logo {
-    float: left;
+    /* float: left; */
     padding: 30px;
 }
 
@@ -23,14 +23,10 @@
     float: left;
     padding: 20px 30px;
 }
-.main {
-    background-color: orange;
-    padding: 30px;
-}
 
 .imgface {
-    height: 150px;
-    width: 150px;
+    height: 120px;
+    width: 120px;
     border-radius:50%;
 }
 
