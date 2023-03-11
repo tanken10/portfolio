@@ -28,6 +28,12 @@
     padding: 30px;
 }
 
+.imgface {
+    height: 100px;
+    width: 100px;
+}
+
+
 .contents-item {
     position: relative;
     padding: 1.8em 1em .5em;
