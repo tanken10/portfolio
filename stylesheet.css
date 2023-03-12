@@ -2,7 +2,7 @@
 /* ***************************+++++++++++++++++************** */
 
 .header {
-    background-color: aqua;
+    /* background-color: aqua; */
     height: 100px;
     /* position: fixed; */
     z-index: 999;
@@ -10,7 +10,7 @@
     left: 0;
     width: 100%;
     /* padding: 20px 40px; */
-    background: #eee;
+    /* background: #eee; */
     box-sizing: border-box;
     transition: padding .3s;
     /* border: solid 3px #3450a4; */
